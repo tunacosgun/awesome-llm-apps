@@ -1,7 +1,7 @@
 ## 📰 Multi-Agent AI Researcher
 
 ### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-multi-agent-llm-app-with-gpt-4o) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
+**👉 [Click here to follow our complete step-by-step tutorial](https://tunahancosgun.dev/p/build-a-multi-agent-llm-app-with-gpt-4o) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
 
 This Streamlit app empowers you to research top stories and users on HackerNews using a team of AI assistants with GPT-4o. 
 
@@ -15,7 +15,7 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/tunacosgun/awesome-llm-apps.git
 cd advanced_ai_agents/multi_agent_apps/multi_agent_researcher
 ```
 2. Install the required dependencies:

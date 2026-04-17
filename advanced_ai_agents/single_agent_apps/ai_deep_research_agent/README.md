@@ -1,7 +1,7 @@
 # Deep Research Agent with OpenAI Agents SDK and Firecrawl
 
 ### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-deep-research-agent-with-openai-agents-sdk-and-firecrawl) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
+**👉 [Click here to follow our complete step-by-step tutorial](https://tunahancosgun.dev/p/build-a-deep-research-agent-with-openai-agents-sdk-and-firecrawl) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
 
 A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's deep research capabilities to perform comprehensive web research on any topic and any question.
 
@@ -31,7 +31,7 @@ A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's
 
 1. Clone this repository:
    ```bash
-   git clone  https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone  https://github.com/tunacosgun/awesome-llm-apps.git
    cd advanced_ai_agents/single_agent_apps/ai_deep_research_agent
    ```
 

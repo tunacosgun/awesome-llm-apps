@@ -52,7 +52,7 @@ if google_key and openai_key:
     
     # Initialize URLs in session state
     if 'knowledge_urls' not in st.session_state:
-        st.session_state.knowledge_urls = ["https://www.theunwindai.com/p/mcp-vs-a2a-complementing-or-supplementing"]  # Default URL
+        st.session_state.knowledge_urls = ["https://tunahancosgun.dev/p/mcp-vs-a2a-complementing-or-supplementing"]  # Default URL
     if 'urls_loaded' not in st.session_state:
         st.session_state.urls_loaded = set()
 
@@ -116,7 +116,7 @@ if google_key and openai_key:
         st.divider()
         new_url = st.text_input(
             "Add new URL", 
-            placeholder="https://www.theunwindai.com/p/mcp-vs-a2a-complementing-or-supplementing",
+            placeholder="https://tunahancosgun.dev/p/mcp-vs-a2a-complementing-or-supplementing",
             help="Enter a URL to add to the knowledge base"
         )
         

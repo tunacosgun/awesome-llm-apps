@@ -1,7 +1,7 @@
 # 🏠 AI Real Estate Agent Team
 
 ### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-real-estate-agent-team) and learn how to build this AI SEO Audit Team from scratch with detailed code walkthroughs, explanations, and best practices.**
+**👉 [Click here to follow our complete step-by-step tutorial](https://tunahancosgun.dev/p/build-an-ai-real-estate-agent-team) and learn how to build this AI SEO Audit Team from scratch with detailed code walkthroughs, explanations, and best practices.**
 
 The **AI Real Estate Agent Team** is a sophisticated property search and analysis platform powered by specialized AI agents with Firecrawl's extract endpoint. This application provides comprehensive real estate insights, market analysis, and property recommendations using advanced web scraping and AI-powered search capabilities.
 
@@ -65,7 +65,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/tunacosgun/awesome-llm-apps.git
    cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_real_estate_agent_team
    ```
 

@@ -1,7 +1,7 @@
 ## 📈 AI Investment Agent
 
 ### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-ai-investment-agent-with-gpt-4o) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
+**👉 [Click here to follow our complete step-by-step tutorial](https://tunahancosgun.dev/p/build-ai-investment-agent-with-gpt-4o) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
 
 This AI-powered investment agent is built with Agno's AgentOS framework that analyzes stocks and generates detailed investment reports. By using GPT-5.2 with Yahoo Finance data, this app provides valuable insights to help you make informed investment decisions.
 
@@ -16,7 +16,7 @@ This AI-powered investment agent is built with Agno's AgentOS framework that ana
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/tunacosgun/awesome-llm-apps.git
 cd advanced_ai_agents/single_agent_apps/ai_investment_agent
 ```
 2. Install the required dependencies:

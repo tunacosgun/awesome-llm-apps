@@ -1,19 +1,19 @@
 <p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
+  <a href="http://tunahancosgun.dev">
+    <img src="docs/banner/unwind_black.png" width="900px" alt="Awesome LLM Apps">
   </a>
 </p>
 
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=de">Deutsch</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=es">Español</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=fr">français</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=ja">日本語</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=ko">한국어</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=pt">Português</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=ru">Русский</a> | 
+  <a href="https://www.readme-i18n.com/tunacosgun/awesome-llm-apps?lang=zh">中文</a>
 </p>
 
 <hr/>
@@ -26,22 +26,22 @@
 AI Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning</p>
 
 <p>
-<strong>Free step-by-step tutorials on <a href="https://www.theunwindai.com">Unwind AI</a></strong><br/>
+<strong>Free step-by-step tutorials on <a href="https://tunahancosgun.dev">Tunasoft Yazılım</a></strong><br/>
 <strong>Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama</strong>
 </p>
 
 <p>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers"><img src="https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&logo=github&color=FFD700" alt="Stars"></a>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/network/members"><img src="https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&logo=github&color=4FC3F7" alt="Forks"></a>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/graphs/contributors"><img src="https://img.shields.io/github/contributors/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&color=22C55E" alt="Contributors"></a>
-<a href="LICENSE"><img src="https://img.shields.io/github/license/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&color=8B5CF6" alt="License"></a>
-<img src="https://img.shields.io/github/last-commit/Shubhamsaboo/awesome-llm-apps?style=for-the-badge&color=F97316" alt="Last Commit">
+<a href="https://github.com/tunacosgun/awesome-llm-apps/stargazers"><img src="https://img.shields.io/github/stars/tunacosgun/awesome-llm-apps?style=for-the-badge&logo=github&color=FFD700" alt="Stars"></a>
+<a href="https://github.com/tunacosgun/awesome-llm-apps/network/members"><img src="https://img.shields.io/github/forks/tunacosgun/awesome-llm-apps?style=for-the-badge&logo=github&color=4FC3F7" alt="Forks"></a>
+<a href="https://github.com/tunacosgun/awesome-llm-apps/graphs/contributors"><img src="https://img.shields.io/github/contributors/tunacosgun/awesome-llm-apps?style=for-the-badge&color=22C55E" alt="Contributors"></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/tunacosgun/awesome-llm-apps?style=for-the-badge&color=8B5CF6" alt="License"></a>
+<img src="https://img.shields.io/github/last-commit/tunacosgun/awesome-llm-apps?style=for-the-badge&color=F97316" alt="Last Commit">
 </p>
 
 <p>
 <a href="#-quick-start"><kbd> &nbsp; 🚀 Quick Start &nbsp; </kbd></a>
 <a href="#-featured-ai-projects"><kbd> &nbsp; 📂 Browse Templates &nbsp; </kbd></a>
-<a href="https://www.theunwindai.com"><kbd> &nbsp; 📚 Step-by-Step Tutorials &nbsp; </kbd></a>
+<a href="https://tunahancosgun.dev"><kbd> &nbsp; 📚 Step-by-Step Tutorials &nbsp; </kbd></a>
 </p>
 
 <a href="https://trendshift.io/repositories/9876" target="_blank">
@@ -62,17 +62,17 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 - 🧪 **Runs in 3 commands** - no broken `requirements.txt`, no "figure it out yourself" scaffolding.
 - 🧠 **Covers the modern AI stack** - AI Agents, Multi-agent Teams, MCP Agents, Voice AI Agents, RAG, Agent Skills, Fine-tuning.
 - 🌐 **Provider-agnostic** - switch between Claude, Gemini, GPT, Llama, Qwen, xAI and others with a config change.
-- 📚 **Step-by-step tutorials** - every featured template has a free walkthrough on [Unwind AI](https://www.theunwindai.com).
+- 📚 **Step-by-step tutorials** - every featured template has a free walkthrough on [Tunasoft Yazılım](https://tunahancosgun.dev).
 - 💸 **Apache-2.0** - fork it, ship it, sell it. No paywall, no signup, no telemetry.
 
-> ⭐ **If this saves you time, [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers) - that's how the next developer discovers it.**
+> ⭐ **If this saves you time, [star the repo](https://github.com/tunacosgun/awesome-llm-apps/stargazers) - that's how the next developer discovers it.**
 
 ## 🚀 Quick Start
 
 Run your first agent in **30 seconds**:
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/tunacosgun/awesome-llm-apps.git
 cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
 pip install -r requirements.txt
 streamlit run travel_agent.py
@@ -87,7 +87,7 @@ streamlit run travel_agent.py
 | [🏠 Home Renovation Agent](advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) | Photo → AI redesign with Nano Banana Pro | Vision + Multi-agent |
 | [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) | Automatically optimize agent skills using Gemini and ADK | Agent Skills + ADK |
 
-> 📬 [Subscribe on Unwind AI](https://www.theunwindai.com) to get new template drops + tutorials in your inbox.
+> 📬 [Subscribe on Tunasoft Yazılım](https://tunahancosgun.dev) to get new template drops + tutorials in your inbox.
 
 ## 📑 Table of Contents
 
@@ -301,17 +301,17 @@ streamlit run travel_agent.py
 
 ## 🙏 Built by
 
-<p>Created and maintained by <a href="https://twitter.com/Saboo_Shubham_"><strong>Shubham Saboo</strong></a> with contributions from the amazing community members.</p>
+<p>Created and maintained by <strong>Tunahan Coşgun</strong> & <strong>Duygu Durmuş</strong> — Tunasoft Yazılım</p>
 
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Shubhamsaboo/awesome-llm-apps&max=40&columns=10&anon=0" alt="Top contributors" />
+<a href="https://github.com/tunacosgun/awesome-llm-apps/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tunacosgun/awesome-llm-apps&max=40&columns=10&anon=0" alt="Top contributors" />
 </a>
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tunacosgun/awesome-llm-apps&type=Date)](https://star-history.com/#tunacosgun/awesome-llm-apps&Date)
 
-> 🌟 **Don't miss future drops - [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps) to get notified when new templates ship.**
+> 🌟 **Don't miss future drops - [star the repo](https://github.com/tunacosgun/awesome-llm-apps) to get notified when new templates ship.**
 
 ## 📜 License
 

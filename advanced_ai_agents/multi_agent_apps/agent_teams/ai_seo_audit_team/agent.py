@@ -186,7 +186,7 @@ page_auditor_agent = LlmAgent(
 
 STEP 1: Extract the URL
 - Look for a URL in the user's message (it will start with http:// or https://)
-- Example: If user says "Audit https://theunwindai.com", extract "https://theunwindai.com"
+- Example: If user says "Audit https://thetunacosgun.com", extract "https://thetunacosgun.com"
 
 STEP 2: Call firecrawl_scrape
 - Call `firecrawl_scrape` with these exact parameters:

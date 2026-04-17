@@ -1,7 +1,7 @@
 # 🕷️ Web Scraping AI Agent
 
 ### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-web-scraping-ai-agent-with-llama-3-2-running-locally) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
+**👉 [Click here to follow our complete step-by-step tutorial](https://tunahancosgun.dev/p/build-a-web-scraping-ai-agent-with-llama-3-2-running-locally) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
 
 AI-powered web scraping using **ScrapeGraph AI** - extract structured data from websites using natural language prompts. This folder contains two implementations:
 
@@ -68,7 +68,7 @@ python quickstart.py
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/tunacosgun/awesome-llm-apps.git
 cd awesome-llm-apps/starter_ai_agents/web_scrapping_ai_agent
 ```
 

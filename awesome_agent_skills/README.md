@@ -66,7 +66,7 @@ Each skill contains:
 ### Using npx (Recommended)
 
 ```bash
-npx skills add shubhamsaboo/awesome-agent-skills
+npx skills add tunacosgun/awesome-agent-skills
 ```
 
 ### Manual Installation
