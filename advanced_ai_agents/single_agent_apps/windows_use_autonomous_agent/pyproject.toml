@@ -4,7 +4,8 @@ version = "0.1.31"
 description = "An AI Agent that interacts with Windows OS at GUI level."
 readme = "README.md"
 authors = [
-    { name = "Jeomon George", email = "jeogeoalukka@gmail.com" }
+    {name = "Tunahan Coşgun", email = "info@tunahancosgun.dev"},
+    {name = "Duygu Durmuş", email = "duygudurmus12@gmail.com"},
 ]
 license = 'MIT'
 license-files = ["LICENSE"]
